@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @REFUSENCB
 - 👀 I’m interested in Lemon
-- 🌱 I’m currently learning Ethical Hacker
+- 🌱 I’m currently learning Ethical Hacking
 
 <!---
 REFUSENCB/REFUSENCB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
